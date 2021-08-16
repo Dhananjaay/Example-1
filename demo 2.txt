@@ -1,2 +1,0 @@
-Example 2
-Changes done to see pull operation, It works fine.
